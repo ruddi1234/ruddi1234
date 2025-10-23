@@ -33,7 +33,6 @@
 ---
 
 ### 📈 Stats
-![Rudraksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruddi1234&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruddi1234&layout=compact&theme=tokyonight)
 
 ---
